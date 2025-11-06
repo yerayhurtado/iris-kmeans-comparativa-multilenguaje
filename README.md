@@ -1,6 +1,6 @@
 # 🧠 K-Means Clustering — Comparativa Multilenguaje (Iris Dataset)
 
-Este proyecto implementa el algoritmo **K-Means** desde cero en **Python** y compara sus resultados con las versiones disponibles en **scikit-learn (Python)** y **R (stats::kmeans)**.  
+Este proyecto implementa el algoritmo **K-Means** desde cero en **Python** y **R**, compara sus resultados con las versiones disponibles en **scikit-learn** y **kmeans()**.  
 Forma parte de una serie de prácticas orientadas al estudio comparativo de algoritmos de *Machine Learning* en distintos lenguajes de programación.
 
 ---
