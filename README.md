@@ -13,12 +13,14 @@ Forma parte de una serie de prácticas orientadas al estudio comparativo de algo
 - Evaluar las métricas de **inercia** y **precisión** .
 - Visualizar los resultados mediante reducción de dimensionalidad con **PCA**.  
 
-📈 Resultados
-Implementación	Inercia	Precisión aproximada
-Python manual 0.89 78.8
-Python con scikit-learn 0.89 78.8
-R manual 0.88 78.8
-R con kmeans() 0.89 78.8
+## 📈 Resultados
+
+| Implementación              | Inercia | Precisión aproximada |
+|-----------------------------|----------|----------------------|
+| Python (manual)             | 0.89     | 78.8% |
+| Python (scikit-learn)       | 0.89     | 78.8% |
+| R (manual)                  | 0.88     | 78.8% |
+| R (`kmeans()`)              | 0.89     | 78.8% |
 
 🧠 Conclusiones
 
